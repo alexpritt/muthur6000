@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-In the project directory, first install the required packages using
+In the project directory, first install the required packages using:
 
 ### `npm install`
 
