@@ -1,8 +1,8 @@
 .textOutput {
   color: #00ff00;
   font-family: 'Courier New', monospace;
+  font-size: 24px;
   position: relative;
   text-align: left;
-  top: 10em;
-  left: 1em;
+  padding: 5%;
 }
