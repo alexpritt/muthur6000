@@ -6,3 +6,34 @@
   text-align: left;
   padding: 5%;
 }
+
+.personnelId {
+  color: #00ff00;
+  font-family: 'Courier New', monospace;
+  font-size: 18px;
+
+  padding-right: 5%;
+  text-align: right;
+}
+
+.title {
+  padding-top: 2%;
+  color: #00ff00;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+}
+
+button {
+  color: #00ff00;
+  font-family: 'Courier New', monospace;
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  font-size: 24px;
+}
+
+button:hover {
+  background-color: #00ff00;
+  color: #2a2a2a;
+  transition: 0.3s;
+}

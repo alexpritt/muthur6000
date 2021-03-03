@@ -15,15 +15,15 @@ function Home() {
                 .break()
                 .break()
                 .options({speed:30})
-                .type("|FILES", {delay:150})
+                .type("<button>|FILES</button>", {delay:100})
                 .break()
                 .break()
                 .options({speed:30})
-                .type("|SYSTEM", {delay:150})
+                .type("<button>|SYSTEM<button>", {delay:100})
                 .break()
                 .break()
                 .options({speed:30})
-                .type("|NOTEPAD", {delay:150})
+                .type("<button>|NOTEPAD</button>", {delay:100})
                 return instance;
             }}
         />
